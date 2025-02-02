@@ -1,0 +1,6 @@
+@ASHCodingTest_HostAddress = http://localhost:5241
+
+GET {{ASHCodingTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
